@@ -23,5 +23,5 @@ fn main() {
 ### Cargo.toml
 ```bash
 [dependencies]
-aho-corasick = {git = "https://github.com/mingendo/aho-corasick.git", branch="master"}
+aho-corasick = {git = "https://github.com/mingendo/aho-corasick.git", branch="main"}
 ```
